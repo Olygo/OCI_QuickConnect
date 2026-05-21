@@ -12,6 +12,8 @@ Typical issues this app helps avoid:
 - OpenSSH compatibility issues with older `ssh-rsa` negotiation;
 - Losing track of which command/key pair belongs to which instance or console connection.
 
+Read [OCI_Console-Connections](github.com/Olygo/OCI_Console-Connections) to learn how to troubleshoot Linux and Windows instances using OCI Console Connections. 
+
 **OCI QuickConnect** generates the final command automatically when you click **Launch**, logs the generated command, and starts the right workflow for the detected connection type.
 
 The app supports both:
