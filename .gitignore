@@ -1,0 +1,15 @@
+.DS_Store
+*.pyc
+*.docx
+*.doc
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.mp4
+Builds/
+MacApps/
+Installer/
+olygo.png
+OCI_QuickConnect_icon.png
+.python-version
